@@ -1,2 +1,2 @@
-# React-todo-list-v2.1
+# react-todo-List-v2.0
 Created with CodeSandbox
